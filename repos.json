@@ -8,6 +8,9 @@
         },
         "eeva": {
             "url": "https://framagit.org/eeva/nur-packages"
+        },
+        "mpickering": {
+            "url": "https://github.com/mpickering/nur-packages"
         }
     }
 }
